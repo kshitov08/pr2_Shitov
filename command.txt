@@ -7,3 +7,4 @@ git branch - создать новую ветку
 git switch - перейти на ветку
 git merge - слияние веток
 git branch -d - удалить ветку
+git clone - клонировать
